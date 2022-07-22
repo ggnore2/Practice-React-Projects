@@ -37,13 +37,18 @@ body {
   border-radius: 50% ;
   width : 200px;
   height : 200px;
-  
+  border-width:5px ;
+  border-color: blue ;
+  border-style : solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 img{
   border-radius: 50%;
   width: 200px;
-  height: 200px;
+  height : 200px;
 }
 
 .Name{
